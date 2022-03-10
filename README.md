@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rhys
 - 👀 I’m interested in entry level, remote web development positions
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 📫 How to reach me: rgordon2614@gmail.com
 <!---
 RGordon2614/RGordon2614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
